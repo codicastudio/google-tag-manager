@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/googletagmanager",
+    "name": "codica-studio/googletagmanager",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/googletagmanager",
+    "homepage": "https://github.com/codica-studio/googletagmanager",
     "license": "MIT",
     "authors": [
         {
