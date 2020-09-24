@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/googletagmanager",
+    "name": "codicastudio/google-tag-manager",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/googletagmanager",
+    "homepage": "https://github.com/codicastudio/google-tag-manager",
     "license": "MIT",
     "authors": [
         {
@@ -32,5 +32,7 @@
                 "GoogleTagManager": "Spatie\\GoogleTagManager\\GoogleTagManagerFacade"
             }
         }
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
